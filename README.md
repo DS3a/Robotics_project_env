@@ -1,8 +1,1 @@
-# autoz_task
-
-Open Terminal 
-use git clone https://github.com/nksas/autoz_task.git to clone the repository.
-
-Use <br>
-roslaunch ebot_description task1.launch <br>
-to run the environment
+Welcome to the autonomous robot simulation environment, you can run a wide array of worlds by checking the launch files
