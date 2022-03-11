@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ebot_gazebo_old</name>
+  <name>ebot_gazebo</name>
   <version>0.0.0</version>
   <description>The ebot_gazebo package</description>
 

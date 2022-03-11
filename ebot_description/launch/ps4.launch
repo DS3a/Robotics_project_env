@@ -1,6 +1,6 @@
 <launch>
 <!--   ebot -->
-    <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find ebot_description_old)/urdf/ebot.xacro'"/>
+    <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find ebot_description)/urdf/ebot.xacro'"/>
    
 <!-- empty gazebo world -->
    <include file="$(find aws_robomaker_racetrack_world)/launch/racetrack.launch" /> 
